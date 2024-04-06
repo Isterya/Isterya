@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>
-        <img src="[1](https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Привет..+Я+)[Ваше имя];Это..;..мой+Github..;" alt="Typing SVG"/>
-    </h1>
+    <p>
+        <img src="[URL_ВАШЕГО_GIF.gif](https://i.pinimg.com/originals/48/72/59/487259006ebb768d17f7ec4497969876.gif)" alt="Описание GIF"/>
+    </p>
 </div>
