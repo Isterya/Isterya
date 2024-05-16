@@ -25,6 +25,7 @@
          </ul>
          <h2>Связь со мной</h2>
          <p>Мой личный аккаунт в Telegram: @perfectn1ght</p>
+         <p>Мой сайт-портфолио: https://purrcode.ru/</p>
       </div>
    </body>
 </html>
