@@ -1,5 +1,5 @@
 <body>
-    <div class="container" align="center">
+    <div class="container" align="">
         <p align="center">
             <img src="github-readme.png" alt="QR code for GitHub Profile"/>
         </p>
