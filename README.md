@@ -6,7 +6,9 @@
    </head>
    <body>
       <div class="container" align="center">
-         ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Isterya&theme=nightowl&show_icons=true)
+         <p align="center">
+          <img width="200px" src="github-readme.png" alt="qr"/>
+         </p>
          <h1 align="center">Привет, меня зовут Богдан!</h1>
          <p align="center">
             Я активно занимаюсь разработкой во фронтенде. Постоянно стремлюсь к самосовершенствованию и расширению своих
