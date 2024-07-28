@@ -13,8 +13,9 @@
             <li>Фреймворк <b>React</b></li>
             <li>Продвинутые знания <b>HTML</b> и <b>CSS</b></li>
         </ul>
+        <p>Вся информация о моих навыках лежит тут: <a href="https://drive.google.com/file/d/1PXAm3QQuEKseQm-z57iBTh7ZPX5sWCu5/view?usp=sharing">моё резюме</a>.</p>
         <h2 align="center">Связь со мной</h2>
         <p>Мой личный аккаунт в Telegram: <a href="https://t.me/perfectn1ght">@perfectn1ght</a></p>
-        <p>Мой сайт-портфолио: <a href="https://purrcode.ru/">purrcode.ru</a></p>
+        <p>Мой сайт-портфолио: <a href="https://purrcode.ru/">тык!/a></p>
     </div>
 </body>
