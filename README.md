@@ -10,7 +10,7 @@
         <h2 align="center">Мои навыки</h2>
         <ul>
             <li><b>JavaScript</b> и <b>TypeScript</b></li>
-            <li>Библиотека <b>React</b></li>
+            <li>Уверенная работа с <b>React</b>, а также с такой библиотекой, как <b>Redux</b>.</li>
             <li>Продвинутые знания как <b>HTML</b> и <b>CSS</b>, так и прочих актуальных инструментов, связанных с вёрсткой.</li>
         </ul>
         <p>Вся информация о моих навыках лежит тут: <a href="https://drive.google.com/file/d/1KIwPtCVCfr7uzwX1EYivj9Y_yJhQpLX-/view?usp=sharing">моё резюме</a>.</p>
