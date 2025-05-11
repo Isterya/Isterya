@@ -1,24 +1,24 @@
-# 👋 Hey! I'm Bohdan — a Front-End Developer based in Poland 🇵🇱
+![Readme-img](./github-img.png)
 
-I'm 18 years old and have already spent over two years building modern, scalable web applications using React, TypeScript, and a well-structured front-end stack. I focus on clean code, architectural thinking, and continuous growth.
+I'm 18 years old and have over two years of hands-on experience building modern, scalable web applications with React, TypeScript, and a robust front-end architecture. I prioritize clean code, thoughtful design, and continuous self-improvement.
 
 ---
 
 ## 🚀 Tech Stack
 
-- React / Redux Toolkit
-- TypeScript / JavaScript (ES6+)
-- Tailwind CSS / SCSS / Stylelint / Styled Components
-- Clean architecture (including Feature-Sliced Design principles)
-- Git / GitHub / ESLint / Webpack / Vite
+- ⚛️ React / Redux Toolkit
+- 💻 TypeScript / JavaScript (ES6+)
+- 🎨 Tailwind CSS / SCSS / Styled Components / Stylelint
+- 🧱 Clean architecture (including Feature-Sliced Design principles)
+- 🛠️ Git / GitHub / ESLint / Webpack / Vite
 
 ---
 
 ## 💼 Projects
 
-[isterya.dev](https://www.isterya.dev/) — my personal portfolio  
-30+ projects completed  
-Currently working on a new quiz app with advanced user logic and result tracking — coming soon!
+🔗 [isterya.dev](https://www.isterya.dev/) — my personal portfolio  
+🎯 30+ projects completed  
+🛠️ Currently working on a full-featured quiz app with user accounts, progress tracking, and dynamic logic — coming soon!
 
 ---
 
@@ -29,5 +29,5 @@ Currently working on a new quiz app with advanced user logic and result tracking
 
 ---
 
-> 💬 I approach development with long-term thinking and attention to architecture
-> — always aiming to grow beyond my current title.
+> 💬 I approach development with long-term thinking and architectural focus —  
+> always striving to think like a senior, even if the title comes later.
