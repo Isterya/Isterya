@@ -1,4 +1,4 @@
-![Readme-img](./github-img.png)
+![Readme-img](./readme-image.png)
 
 I'm 18 years old and have over two years of hands-on experience building modern, scalable web applications with React, TypeScript, and a robust front-end architecture. I prioritize clean code, thoughtful design, and continuous self-improvement.
 
