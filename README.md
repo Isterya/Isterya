@@ -29,5 +29,4 @@ I'm 18 years old and have over two years of hands-on experience building modern,
 
 ---
 
-> 💬 I approach development with long-term thinking and architectural focus —  
-> always striving to think like a senior, even if the title comes later.
+> 💬 Thank you for your attention! My social networks are always open for collaboration
