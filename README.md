@@ -23,7 +23,7 @@ I'm 18 years old and have over two years of hands-on experience building modern,
 ## 📫 Contact Me
 
 - Telegram: [@perfectn1ght](https://t.me/perfectn1ght)
-- Resume: [View PDF](https://drive.google.com/file/d/1KIwPtCVCfr7uzwX1EYivj9Y_yJhQpLX-/view?usp=sharing)
+- Resume: [View PDF](https://drive.google.com/file/d/12pjo9ludkcHQy23FsLW58-NLr-0UprGn/view)
 
 ---
 
