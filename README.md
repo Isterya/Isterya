@@ -1,4 +1,4 @@
-![Readme-img](./readme-image.png)
+![Readme-img](./readme-img.png)
 
 I'm 18 years old and have over two years of hands-on experience building modern, scalable web applications with React, TypeScript, and a robust front-end architecture. I prioritize clean code, thoughtful design, and continuous self-improvement.
 
@@ -6,19 +6,19 @@ I'm 18 years old and have over two years of hands-on experience building modern,
 
 ## 🚀 Tech Stack
 
-- ⚛️ React / Redux Toolkit
-- 💻 TypeScript / JavaScript (ES6+)
-- 🎨 Tailwind CSS / SCSS / Styled Components / Stylelint
-- 🧱 Clean architecture (including Feature-Sliced Design principles)
-- 🛠️ Git / GitHub / ESLint / Webpack / Vite
+- React / Redux Toolkit / Next.js
+- TypeScript / JavaScript (ES6+)
+- Tailwind CSS / SCSS / Styled Components / Stylelint
+- Clean architecture (including Feature-Sliced Design principles)
+- Git / GitHub / ESLint / Webpack / Vite
 
 ---
 
 ## 💼 Projects
 
-🔗 [isterya.dev](https://www.isterya.dev/) — my personal portfolio  
-🎯 30+ projects completed  
-🛠️ Currently working on a full-featured quiz app with user accounts, progress tracking, and dynamic logic — coming soon!
+[isterya.dev](https://www.isterya.dev/) — my personal portfolio  
+30+ projects completed  
+Currently working on a full-featured quiz app with user accounts, progress tracking, and dynamic logic — coming soon!
 
 ---
 
