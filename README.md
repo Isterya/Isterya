@@ -1,6 +1,6 @@
 ![Readme-img](./readme-img.png)
 
-I'm 18 years old and have over two years of hands-on experience building modern, scalable web applications with React, TypeScript, and a robust front-end architecture. I prioritize clean code, thoughtful design, and continuous self-improvement.
+I'm 17 years old and have over two years of hands-on experience building modern, scalable web applications with React, TypeScript, and a robust front-end architecture. I prioritize clean code, thoughtful design, and continuous self-improvement.
 
 ---
 
