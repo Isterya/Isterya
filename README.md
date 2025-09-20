@@ -6,11 +6,11 @@ I'm 18 years old and have over two years of hands-on experience building modern,
 
 ## 🚀 Tech Stack
 
-- React / Redux Toolkit / Next.js
+- React / Redux Toolkit / Next
 - TypeScript / JavaScript (ES6+)
 - Tailwind CSS / SCSS / Styled Components / Stylelint
-- Clean architecture (including Feature-Sliced Design principles)
 - Git / GitHub / ESLint / Webpack / Vite
+- Express / PostgreSQL
 
 ---
 
@@ -25,7 +25,7 @@ Currently working on a full-featured quiz app with user accounts, progress track
 ## 📫 Contact Me
 
 - Telegram: [@perfectn1ght](https://t.me/perfectn1ght)
-- Resume: [View PDF](https://drive.google.com/file/d/12pjo9ludkcHQy23FsLW58-NLr-0UprGn/view)
+- Resume: [View PDF](https://drive.google.com/file/d/1QcdzKJxkva_FRrkKCusPcinOqPQRw5a_/view)
 
 ---
 
